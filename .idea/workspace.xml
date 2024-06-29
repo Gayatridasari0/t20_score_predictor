@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3436bfcd-5718-4316-9633-d4d2d949aa6e" name="Changes" comment="1st commit" />
+    <list default="true" id="3436bfcd-5718-4316-9633-d4d2d949aa6e" name="Changes" comment="2st commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,11 +65,20 @@
       <option name="project" value="LOCAL" />
       <updated>1719693605945</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2st commit">
+      <option name="closed" value="true" />
+      <created>1719694891886</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719694891886</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
+    <MESSAGE value="2st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2st commit" />
   </component>
 </project>
